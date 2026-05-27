@@ -1,0 +1,12 @@
+numbers = [10, 3, 7, 1, 9, 4, 2, 8, 5, 6]
+
+ascendingNumbers = sorted(numbers)
+print()
+print(ascendingNumbers)
+decendingNumbers = sorted(numbers, reverse=True)
+print()
+print(ascendingNumbers)
+print(decendingNumbers)
+print(numbers)
+numbers.sort()
+print(numbers)

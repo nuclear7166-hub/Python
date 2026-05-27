@@ -1,0 +1,2 @@
+msg = input("메세지 입력 : ")
+print(msg)
