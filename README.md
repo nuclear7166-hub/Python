@@ -29,6 +29,7 @@ Image Processing: OpenCV 기반 공간 영역 필터링, 모폴로지(침식/팽
 
 🌟 Highlighted Projects (핵심 프로젝트)
 1. 🔬 하드웨어 회로 설계 및 로우레벨 시스템 검증
+
 내용: 하드웨어의 전기적 특성을 분석하고, 신뢰성 높은 임베디드 시스템의 기반을 다지는 회로 시뮬레이션 및 실측 프로젝트를 수행했습니다.
 
 기술: OrCAD PSpice, C (MISRA C), Oscilloscope
@@ -36,6 +37,7 @@ Image Processing: OpenCV 기반 공간 영역 필터링, 모폴로지(침식/팽
 핵심 역량: 비안정 멀티바이브레이터(Astable Multivibrator) 및 CMOS 인버터 회로 설계 후 PSpice 넷리스트 에러 트러블슈팅 수행. 오실로스코프를 활용한 실제 신호 파형 측정 및 PLL 검증을 통해 시스템의 물리적 동작에 대한 이해도를 증명했습니다.
 
 2. 🤖 생성형 AI & 로우코드 기반 웹 서비스: 'GoldenCare AI'
+
 내용: Lovable과 Gemini CLI를 활용해 시니어 계층을 위한 음성 중심 AI 비서 앱을 기획하고, Streamlit 대시보드를 연동하여 고속 프로토타이핑(Rapid Prototyping)을 완료했습니다.
 
 기술: Streamlit, Gemini API, Lovable, Prompt Engineering
@@ -43,6 +45,7 @@ Image Processing: OpenCV 기반 공간 영역 필터링, 모폴로지(침식/팽
 핵심 역량: 사용자의 UI/UX를 고려한 프론트엔드/백엔드 아키텍처 기획 및 환경변수 보호 로직, API 키 핸들링을 포함한 풀스택 바이브 코딩 연동.
 
 3. 🧠 딥러닝 기반 이미지 분류 및 비전 검출 시스템
+
 내용: TensorFlow를 활용해 데이터를 분류하고, OpenCV를 통해 실무 환경(자동차 번호판, 하네스 케이블)의 불량을 검출하는 파이프라인을 구축했습니다.
 
 기술: TensorFlow, OpenCV, NumPy, CNN
@@ -50,6 +53,7 @@ Image Processing: OpenCV 기반 공간 영역 필터링, 모폴로지(침식/팽
 핵심 역량: TensorFlow 기반의 '사람 vs 말 분류기(Horse or Human)' 훈련 시 디렉토리 다운로드 및 자동화 스크립트를 구현. 모폴로지 연산과 허프 변환(Hough Transform)을 적용해 멀티 하네스 케이블의 기울기를 보정하고 노이즈를 정제하는 전처리 로직을 설계했습니다.
 
 4. 🎮 파이썬 GUI 프로그래밍 인터랙티브 앱 구현
+
 내용: 파이썬의 tkinter 라이브러리를 활용하여 테마 스위칭 및 애니메이션이 포함된 대화형 데스크톱 애플리케이션을 개발했습니다.
 
 기술: Python, tkinter, OOP (객체지향 설계)
@@ -57,6 +61,7 @@ Image Processing: OpenCV 기반 공간 영역 필터링, 모폴로지(침식/팽
 핵심 역량: '주사위 2개를 굴려 합이 7이 되는 것을 맞추는 대화형 게임' 등을 구현하며 이벤트 루프 핸들링 및 상태 관리(State Management) 능력을 학습했습니다.
 
 📚 Detailed Learning Archive (분야별 상세 학습 노트)
+
 메모리 최적화: 동적 할당(malloc/free) 시 발생할 수 있는 메모리 누수 방지 및 포인터 연산의 안전성 확보
 
 제어 흐름 및 표준 준수: 시스템 오작동을 막기 위한 MISRA C 규격 기반의 엄격한 변수 캐스팅 및 제어문 설계
@@ -69,4 +74,4 @@ NumPy & Pandas: 올림차순(Ascending) 정렬, 조건부 데이터 파싱(.loc)
 
 기하학 및 변환: 어파인(Affine), 원근 투시(Perspective) 변환을 통한 3차원 공간 투영 및 객체 분할(Segmentation)
 
-📩 Contact: [nuclear4569@naver.com]
+📩 Contact: [nuclear7166@google.com]
